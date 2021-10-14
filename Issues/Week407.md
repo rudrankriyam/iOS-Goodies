@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [Asynchronous Testing in Swift](https://semaphoreci.com/blog/asynchronous-testing-swift), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [rudrankriyam](https://github.com/rudrankriyam)
